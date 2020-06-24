@@ -75,6 +75,10 @@ p.lead {
   background-color: #40587C;
 }
 
+.card-dev-icons {
+  font-size: 2rem;
+}
+
 .dev-icons {
   font-size: 3rem;
 }
