@@ -75,6 +75,16 @@ p.lead {
   background-color: #40587C;
 }
 
+.badge-group {
+  display: inline-block;
+}
+
+.badge-group img {
+  width: 120px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .card-dev-icons {
   font-size: 2rem;
 }
